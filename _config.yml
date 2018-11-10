@@ -1,0 +1,104 @@
+typography_spectrum: 0.546036792121053
+content_rating:
+  adult: false
+color:
+  lightness: 0.5212555509612038
+  brandColors:
+    - '#F9F9F9'
+    - '#575757'
+    - '#DBD3BC'
+    - '#222222'
+    - '#A9A9A9'
+  saturation: 0.3670439589758505
+  brandStrength: 0.22912038229710174
+  rhythmicContrast: 0.09128315719038174
+opengraph: {}
+layout_spectrum: 0.33363891539947677
+analytics: {}
+author:
+  name: Ocean Road Entertainment PTY LTD
+name: Ocean Road Entertainment
+url: 'http://www.oceanroadentertainment.com'
+navigation:
+  - name: Home
+    url: 'http://www.oceanroadentertainment.com'
+    type: external
+  - name: About
+    id: 3b8cdf5f-c84a-4866-8730-ce28291a1092
+    type: content
+  - name: Incentives
+    id: 1c0d34f6-d0c5-4265-934a-107a92d130ea
+    type: content
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+title: Ocean Road Entertainment
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff94159c-7f3b-44aa-84a5-47959829f36d.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff94159c-7f3b-44aa-84a5-47959829f36d.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/434f05e6-2462-4ade-aec8-68cca24b4237.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/434f05e6-2462-4ade-aec8-68cca24b4237.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: Independant Film and Television Production
+purpose:
+  - type: contact
+    url: 'mailto:hello@oceanroadentertainment.com'
+    label: Email Us
+  - type: internal
+    label: Writers Pitch Here!
+    item: 43635250-839d-4fcd-b82d-b8e9b04b278f
+logo: null
+favicon: null
+github: true
